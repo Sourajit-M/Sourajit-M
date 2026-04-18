@@ -8,7 +8,7 @@
 <br/>
 
 <p>
-  #rd-year B.Tech CSE (AIML) student passionate about building practical AI/ML systems,
+  3rd-year B.Tech CSE (AIML) student passionate about building practical AI/ML systems,
   scalable backend applications, and full-stack products. Focused on writing clean code,
   solving real-world problems, and continuously improving through projects and DSA.
 </p>
@@ -108,63 +108,27 @@ const sourajit = {
 
 ---
 
-## Featured Projects
+## Pinned Repositories
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
+  <a href="https://github.com/sourajit-m?tab=repositories">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sourajit-m&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
+  </a>
+  <a href="https://github.com/sourajit-m?tab=repositories">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sourajit-m&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
+  </a>
+</div>
 
-### AI/ML Project
+<div align="center">
+  <a href="https://github.com/sourajit-m?tab=repositories">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sourajit-m&repo=YOUR_REPO_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
+  </a>
+  <a href="https://github.com/sourajit-m?tab=repositories">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sourajit-m&repo=YOUR_REPO_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
+  </a>
+</div>
 
-Intelligent machine learning project focused on prediction, classification, or computer vision with real-world applicability.
-
-**Tech Stack**
-`Python` `PyTorch` `TensorFlow` `FastAPI`
-
-[GitHub Repository](#) • [Live Demo](#)
-
-</td>
-<td width="50%" valign="top">
-
-### MERN Chat Application
-
-Real-time chat platform with authentication, messaging, and scalable backend architecture.
-
-**Tech Stack**
-`MongoDB` `Express` `React` `Node.js`
-
-[GitHub Repository](#) • [Live Demo](#)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Weather Application
-
-Responsive weather dashboard with real-time weather data, location support, and clean UI.
-
-**Tech Stack**
-`React` `JavaScript` `API Integration`
-
-[GitHub Repository](#) • [Live Demo](#)
-
-</td>
-<td width="50%" valign="top">
-
-### Full Stack Project
-
-A strong full-stack or backend project demonstrating authentication, APIs, database design, and deployment.
-
-**Tech Stack**
-`TypeScript` `Node.js` `PostgreSQL` `React`
-
-[GitHub Repository](#) • [Live Demo](#)
-
-</td>
-</tr>
-</table>
+> Replace `https://github.com/Sourajit-M/glaucoma-detection-project`, `https://github.com/Sourajit-M/youtube-semantic-search`, `(https://github.com/Sourajit-M/crop-yield-prediction)`, and `https://github.com/Sourajit-M/chat-app-mern` with the exact repository names you want to showcase.
 
 ---
 
