@@ -8,7 +8,7 @@
 <br/>
 
 <p>
-  2nd-year B.Tech CSE (AIML) student passionate about building practical AI/ML systems,
+  #rd-year B.Tech CSE (AIML) student passionate about building practical AI/ML systems,
   scalable backend applications, and full-stack products. Focused on writing clean code,
   solving real-world problems, and continuously improving through projects and DSA.
 </p>
