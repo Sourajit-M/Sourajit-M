@@ -108,26 +108,6 @@ const sourajit = {
 
 ---
 
-## Pinned Repositories
-
-<div align="center">
-  <a href="https://github.com/Sourajit-M/glaucoma-detection-project">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sourajit-M&repo=glaucoma-detection-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
-  </a>
-  <a href="https://github.com/Sourajit-M/youtube-semantic-search">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sourajit-M&repo=youtube-semantic-search&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Sourajit-M/crop-yield-prediction">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sourajit-M&repo=crop-yield-prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
-  </a>
-  <a href="https://github.com/Sourajit-M/chat-app-mern">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sourajit-M&repo=chat-app-mern&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
-  </a>
-</div>
----
 
 ## GitHub Stats
 
