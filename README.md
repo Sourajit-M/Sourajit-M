@@ -29,29 +29,6 @@
 
 ---
 
-## About Me
-
-```ts
-const sourajit = {
-  education: "B.Tech CSE (AIML) | 2nd Year",
-  focus: ["Artificial Intelligence & Machine Learning", "Backend Development", "Full Stack Development"],
-  currentTech: ["PyTorch", "TensorFlow", "FastAPI", "MERN Stack"],
-  achievements: [
-    "Solved 390+ LeetCode problems",
-    "Built full-stack chat and weather applications",
-    "Working on AI/ML and backend-focused projects"
-  ],
-  currentlyLearning: [
-    "Advanced Machine Learning",
-    "Deep Learning with PyTorch & TensorFlow",
-    "System Design and Scalable Backend Architecture"
-  ],
-  status: "Open to internships, collaborations, and software engineering opportunities"
-};
-```
-
----
-
 ## Tech Stack
 
 ### Languages
